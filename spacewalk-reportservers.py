@@ -5,7 +5,7 @@
 # File: spacewalk-reportservers.py
 # Version: 1.0
 # Author: Alexandre Stratikopoulos <ale.stratik@gmail.com>
-# Last Modified: September 11, 2014
+# Last Modified: September 11, 2013
 # Licensed under the GPLv2
 ##########################################################
 
