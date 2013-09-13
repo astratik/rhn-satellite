@@ -20,11 +20,11 @@ echo '* W A R N I N G *'
 echo '* *'
 echo '* This process will (re)install this system *'
 echo '* *'
-echo '* Continue? (Type "yes" to continue.) *'
+echo '* Do you wish to continue? (Type the entire word "yes" to proceed.) *'
 echo '* *'
 echo '********************************************************************************'
 echo
-read -p "Continue? " install
+read -p "Proceed with install? " install
 done
 
 chvt 1
