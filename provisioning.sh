@@ -6,7 +6,7 @@
 # How to use: Insert this code on %pre section of kickstart file
 # Version: 1.0
 # Author: Alexandre Stratikopoulos <ale.stratik@gmail.com>
-# Last Modified: September 24, 2013
+# Last Modified: September 12, 2013
 # Licensed under the GPLv2
 #########################################################################
 #
